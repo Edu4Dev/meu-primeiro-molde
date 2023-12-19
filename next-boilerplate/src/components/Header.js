@@ -32,7 +32,6 @@ const Header = ({
           <Image
             src={"/brandimages/light-mode.svg"}
             alt={"Light Mode"}
-            placeholder={"NONE"}
             critical='true'
             className={""}
             width={30}
@@ -47,7 +46,6 @@ const Header = ({
           <Image
             src={"/brandimages/dark-mode.svg"}
             alt={"Dark Mode"}
-            placeholder={"NONE"}
             critical='true'
             width={30}
             height={30}
@@ -98,7 +96,6 @@ const Header = ({
                   <Image
                     src={"/brandimages/door.png"}
                     alt={"Open Menu"}
-                    placeholder={"NONE"}
                     critical='true'
                     width={15}
                     height={30}
