@@ -5,14 +5,14 @@ const nextConfig = {
   reactStrictMode: true,
   output: "export",
   trailingSlash: true,
-  basePath: isGithubPages ? "/next-boilerplate" : undefined,
+  basePath: isGithubPages ? "/meu-primeiro-molde" : undefined,
   images: {
     loader: "custom",
     loaderFile: "./src/containers/imgLoaderContainer.js",
   },
   env: {
     IS_GITHUB_PAGE: isGithubPages,
-    THEME_FOLDER: "next-boilerplate",
+    THEME_FOLDER: "meu-primeiro-molde",
   },
 };
 
