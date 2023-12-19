@@ -3,8 +3,8 @@
     "isDarkLogo": false
   },
   "website": {
-    "siteUrl": "https://miltonbolonha.com.br",
-    "author": "Milton Bolonha",
+    "siteUrl": "https://edu4.dev",
+    "author": "Edu4Dev",
     "i18n": "pt-BR",
     "themeColor": "#d2d",
     "keywords": ["rÖÖm", "boilerplate", "nextjs"],
