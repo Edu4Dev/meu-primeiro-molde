@@ -68,7 +68,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./next-boilerplate/out
+          path: ./meu-primeiro-molde/out
   # Deployment job
   deploy:
     environment:
