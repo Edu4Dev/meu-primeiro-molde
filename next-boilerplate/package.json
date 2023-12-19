@@ -12,6 +12,7 @@
   "dependencies": {
     "@fontsource-variable/dosis": "^5.0.8",
     "@fontsource-variable/josefin-sans": "^5.0.9",
+    "@fontsource/varela": "^5.0.8",
     "@openlab/vercel-netlify-cms-github": "^1.1.1",
     "@vercel/analytics": "^1.0.1",
     "date-fns": "^2.30.0",
